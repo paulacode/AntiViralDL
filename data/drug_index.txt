@@ -1,0 +1,336 @@
+eflornithine	0
+verapamil	1
+albuvirtide	2
+sotrovimab	3
+sunitinib	4
+valproic acid	5
+esomeprazole	6
+prochlorperazine	7
+amodiaquine	8
+cidofovir	9
+quinine	10
+seliciclib	11
+enoxacin	12
+cfi-400945	13
+telaprevir	14
+bortezomib	15
+simvastatin	16
+lopinavir/r	17
+manidipine	18
+lipoic acid	19
+dabma	20
+ingavirin	21
+gsk583	22
+dalbavancin	23
+nelfinavir	24
+vps34-in-1	25
+dexelvucitabine	26
+tecovirimat	27
+ipag	28
+regdanvimab	29
+didanosine	30
+ritonavir	31
+atazanavir	32
+darunavir	33
+glecaprevir	34
+bexarotene	35
+clarithromycin	36
+mefloquine	37
+cyclosporine	38
+ezetimibe	39
+posaconazole	40
+luteolin	41
+amiodarone	42
+kasugamycin	43
+brincidofovir	44
+chloroquine	45
+laninamivir octanoate	46
+coumarin 7	47
+bamlanivimab	48
+suramin	49
+glycyrrhizin	50
+valacyclovir	51
+amubarvimab	52
+telavancin	53
+interferon beta	54
+golvatinib (e7050)	55
+dapivirine	56
+lapachone	57
+simeprevir	58
+pentosan polysulfate	59
+tenofovir alafenamide	60
+letermovir	61
+lovastatin	62
+filociclovir	63
+lanatoside c	64
+ibalizumab-uiyk	65
+apilimod	66
+rhodamine-123	67
+oseltamivir	68
+elsulfavirine	69
+beclabuvir	70
+vu-0364739	71
+avn-944	72
+mcoppb	73
+umifenovir	74
+gefitinib	75
+kd-023	76
+interferon gamma	77
+regorafenib	78
+calanolide a	79
+novobiocin	80
+nafamostat	81
+palivizumab	82
+arbidol	83
+atoltivimab	84
+leronlimab	85
+camptothecin	86
+mitoxantrone	87
+adefovir	88
+doravirine	89
+gs-441524	90
+tenatoprazole	91
+abma	92
+tilorone	93
+diphenhydramine	94
+vaniprevir	95
+merimepodib	96
+flavopiridol	97
+dasatinib	98
+interleukin-7	99
+thieno-pyridone	100
+halofantrine hydrochloride	101
+bleomycin	102
+remdesivir	103
+raloxifene	104
+elvitegravir	105
+casin	106
+interferon alfacon-1	107
+gemcitabine	108
+fluvastatin	109
+tenofovir	110
+clevudine	111
+clotrimazole	112
+amitriptyline	113
+fosamprenavir	114
+ribavirin	115
+famciclovir	116
+pha-665752	117
+eptifibatide	118
+rupintrivir	119
+memantine	120
+acetylsalicylic acid	121
+minocycline	122
+alisporivir	123
+leflunomide	124
+fiacitabine	125
+ombitasvir	126
+teicoplanin	127
+itraconazole	128
+mycophenolic acid	129
+emtricitabine	130
+saracatinib	131
+vesatolimod	132
+promethazine	133
+racivir	134
+acyclovir	135
+dasabuvir	136
+thaliblastine	137
+amprenavir	138
+quercetin	139
+brequinar	140
+resveratrol	141
+cycloheximide	142
+silvestrol	143
+bithionol	144
+clozapine	145
+3'-fluoro-benzyl-spiperone	146
+clofazimine	147
+homoharringtonine	148
+toremifene	149
+chlorpromazine	150
+etesevimab	151
+teriflunomide	152
+azithromycin	153
+cenicriviroc	154
+imatinib	155
+hydroxychloroquine	156
+irbesartan	157
+n-tert-butylisoquine	158
+tandutinib (mln518)	159
+navitoclax	160
+molnupiravir	161
+troglitazone	162
+cabotegravir	163
+cr-31-b (_)	164
+triazavirin	165
+reserpine	166
+artesunate	167
+indomethacin	168
+elvucitabine	169
+adefovir dipivoxil	170
+interferon alpha	171
+caffeine	172
+ansuvimab-zykl	173
+benztropine	174
+elbasvir	175
+aee788	176
+masitinib (ab1010)	177
+baloxavir marboxil	178
+verdinexor	179
+berberine	180
+tamoxifen	181
+trametinib	182
+bebtelovimab	183
+aprotinin	184
+taribavirin	185
+fluorescein	186
+clomiphene citrate	187
+nirmatrelvir	188
+penciclovir	189
+abt-737	190
+gc-376	191
+raloxifene hydrochloride	192
+cepharanthine	193
+emetine	194
+paritaprevir	195
+cp-640186	196
+telbivudine	197
+valganciclovir	198
+raltegravir	199
+stf-62247	200
+lopinavir	201
+saquinavir	202
+camostat	203
+thioguanosine	204
+obatoclax	205
+grazoprevir	206
+cucurbit[7]uril	207
+ve-822	208
+lamivudine	209
+tetrandrine (fanchinine)	210
+valaciclovir	211
+dolutegravir	212
+trifluridine	213
+foscarnet	214
+asunaprevir	215
+anisomycin	216
+metformin	217
+bepridil	218
+imdevimab	219
+idoxuridine	220
+boceprevir	221
+n4-hydroxycytidine	222
+genistein	223
+labyrinthopeptin a1	224
+topotecan	225
+vidarabine	226
+azaribine	227
+jib-04	228
+quinacrine	229
+saliphenylhalamide	230
+galidesivir	231
+maribavir	232
+amiloride	233
+mg-132	234
+azacitidine	235
+interferon lambda	236
+tipranavir	237
+diltiazem	238
+emodin	239
+fenretinide	240
+oritavancin	241
+azauridine	242
+nitroprusside	243
+pegylated interferon alfa-2a	244
+romlusevimab	245
+fluoxetine	246
+fluphenazine	247
+inosine (inosine pranobex)	248
+tixagevimab	249
+niclosamide	250
+brivudine	251
+vemurafenib	252
+fludarabine	253
+thymalfasin	254
+pibrentasvir	255
+adomeglivant	256
+tetrandine	257
+zidovudine	258
+daclatasvir	259
+s416	260
+4?fluorouridine	261
+formoterol	262
+betulinic acid	263
+fostemsavir	264
+voxilaprevir	265
+amrubicin	266
+gsk717	267
+halofuginone	268
+etravirine	269
+baricitinib	270
+nevirapine	271
+enfuvirtide	272
+dhcaa	273
+bictegravir	274
+fomivirsen	275
+erlotinib	276
+clomipramine	277
+gossypol	278
+6-amino-chrysene	279
+jt001	280
+zanamivir	281
+abacavir	282
+ledipasvir	283
+odesivimab-ebgn	284
+cilgavimab	285
+ensitrelvir	286
+pirlindole	287
+salinomycin	288
+favipiravir	289
+zalcitabine	290
+hypericin	291
+delavirdine	292
+podofilox	293
+sirolimus	294
+maraviroc	295
+rilpivirine	296
+peramivir	297
+casirivimab	298
+ilaprazole	299
+rimantadine	300
+mf63	301
+cp-640186 (hydro-chloride)	302
+entecavir	303
+doxycycline	304
+pegylated interferon alfa-2b	305
+etanercept	306
+lobucavir	307
+sorafenib	308
+atovaquone	309
+methotrexate	310
+stavudine	311
+nelfinavir mesylate	312
+ganciclovir	313
+efavirenz	314
+labyrinthopeptin a2	315
+dyphillin	316
+thapsigargin	317
+8-azaguanine	318
+monensin	319
+hydroxyzine	320
+thioridazine	321
+velpatasvir	322
+mmv665852	323
+amantadine	324
+maftivimab	325
+ivermectin	326
+indinavir	327
+trimetrexate	328
+nitazoxanide	329
+dibucaine	330
+docosanol	331
+hexachlorophene	332
+sofosbuvir	333
+unc0646	334
+bs-181	335
