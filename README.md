@@ -7,7 +7,7 @@ This is a tensorflow implementation with a computational framework for predictin
 
 
 ## Requirements
-* TensorFlow 1.15
+* TensorFlow 1.14/2.4
 * python 3.7
 * numpy 1.19
 * pandas 1.1
